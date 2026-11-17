@@ -16,3 +16,4 @@ To learn how to:
 * Clone it into VS Code
 * Edit and update a README file 
 This is a new change for Lab 8.
+This is my Git modification practice.
