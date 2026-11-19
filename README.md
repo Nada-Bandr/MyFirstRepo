@@ -17,3 +17,4 @@ To learn how to:
 * Edit and update a README file 
 This is a new change for Lab 8.
 This is my Git modification practice.
+This is my GitHub Pull practice.
